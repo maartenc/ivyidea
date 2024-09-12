@@ -1,6 +1,6 @@
 # ivyidea
 <!-- Plugin description -->
-Resolves module dependencies through Ivy
+Resolves module dependencies through Ivy.
 
 Features:
 - Apache Ivy integration (up to v2.5.2); no need for external ant build scripts to be called
